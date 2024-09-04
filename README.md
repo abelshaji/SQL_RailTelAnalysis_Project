@@ -1,0 +1,2 @@
+**Project Overview:**
+In this project, I utilized basic SQL queries to perform a fundamental analysis of RailTel's share price data. By calculating the daily price range, identifying significant trading days, determining the average closing price, and counting the trading days, I was able to derive insights that provide a foundation for further, more complex analyses. This project demonstrates my ability to handle and analyze financial data using SQL, and my eagerness to build upon these skills in more advanced scenarios."
